@@ -4,7 +4,7 @@
 
 ### Student at Cornell University
 
-![pic](/mz528.github.io/graduation.jpq)
+![pic](/mz528.github.io/graduation.jpg)
 
 !(https://www.publicdomainpictures.net/pictures/350000/nahled/apple-1591708617vbm.jpg)
 
