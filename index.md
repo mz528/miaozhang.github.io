@@ -25,7 +25,7 @@
 
 ### Education
 
-Cornell University / Finincial Engineering
+Cornell University / Financial Engineering
 08/2022 - 12/2023
 
 University of Manchester / Mathematics with Finance
@@ -41,6 +41,25 @@ Jack Options Investment / Quantitative Trader Intern
 
 Zhongtai Securities / Equity Research Intern
 06/2021 - 08/2021 (Shanghai, CN)
+
+=====================
+
+### Projects
+
+Multi-factor stock investment and sparse Markowitz optimization (Python)
+> The project developed a daily trading strategy for a portfolio of 100 stocks, using data analysis and machine learning techniques. I constructed 30 common factors, analyzed their validity, and used SVM for price prediction. To reduce transaction costs, I used optimization method with penalty terms to the Markowitz model.
+
+Convertible Bond Simulation Pricing Model (C++)
+> I built a pricing model in C++ to value convertible bonds with embedded sell options, both European and American types. I used the Crank-Nicolson scheme to solve the Black-Scholes equation and analyzed the impact of parameters on bond prices using PDE(Greeks). The model was tested with real market data and the numerical scheme's efficiency and stability were improved by adjusting the simulation range and grids.
+
+
+=====================
+
+### Academic Interest
+
+- Optimization
+- Stochastic
+- Machine Learning
 
 =====================
 
