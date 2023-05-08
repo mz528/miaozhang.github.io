@@ -29,7 +29,7 @@ Cornell University / Financial Engineering
 08/2022 - 12/2023
 
 University of Manchester / Mathematics with Finance
-09/2019 - 06/2022 (Shanghai, CN)
+09/2019 - 06/2022
 
 
 =====================
